@@ -4,7 +4,7 @@ li {
 }
 
 body{
-  background-image:url(Wallpaper-web.jpg);
+  background-image:url("Wallpaper-web.jpg");
   background-attachment: fixed;
   background-size:cover;
 
