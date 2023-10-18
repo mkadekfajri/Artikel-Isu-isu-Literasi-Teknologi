@@ -4,7 +4,7 @@ li {
 }
 
 body{
-  background-image:url("Wallpaper-web.jpg");
+  background-image:url("/assets/Wallpaper-web.jpg");
   background-attachment: fixed;
   background-size:cover;
   background-repeat: no-repeat;
@@ -21,7 +21,7 @@ body{
 }
 
 .content{
-  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.84);
   border:none ;
   border-radius: 8px;
 }
@@ -62,7 +62,6 @@ background-clip: text;
 .footer{
   background-color: rgba(0, 0, 0, 0.84);
 }
-
 hr{
   height: 2.4px;
   background-color: #bbf8ff;
@@ -73,3 +72,12 @@ hr{
   background: linear-gradient(92deg, #fff 5%, #0597a7 90.69%);
   color: rgba(0, 0, 0, 0.736);
 }
+
+.red-text{
+  color: rgb(243, 90, 90);
+}
+
+.penulis{
+  font-size: 15px;
+}
+
